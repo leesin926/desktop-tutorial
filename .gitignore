@@ -1,0 +1,11 @@
+*.xml
+*.log
+vendor
+.idea/
+._.DS_Store
+.DS_Store
+*.exe
+.vscode
+logs/*
+outputs/
+.venv
